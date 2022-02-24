@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an anti-phanatique, to the most illustrious and truly vertuous lady, the Lady Monk. By a true lover of his country.</title>
+            <author>Morley, Henry, fl. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51396</idno>
+            <idno type="STC">Wing M2797A</idno>
+            <idno type="STC">ESTC R214239</idno>
+            <idno type="EEBO-CITATION">99826442</idno>
+            <idno type="PROQUEST">99826442</idno>
+            <idno type="VID">30845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30845)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1765:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an anti-phanatique, to the most illustrious and truly vertuous lady, the Lady Monk. By a true lover of his country.</title>
+                  <author>Morley, Henry, fl. 1660.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Hen. Morley.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30845:1"/>
+            <p>A LETTER FROM AN Anti-Phanatique, TO The moſt Illuſtrious and truly Ver<g ref="char:EOLhyphen"/>tuous LADY, the LADY <hi>MONK.</hi>
+            </p>
+            <p>By a true lover of his Country.</p>
+            <p>
+               <hi>London,</hi> Printed in the year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:30845:2"/>
+            <pb n="3" facs="tcp:30845:2"/>
+            <head>TO The moſt Vertuous LADY, THE LADY <hi>MONK.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is commonly ſeen that Honours change Manners, no ſooner are we circumferenced with the bright Clouds of Magnitude, but preſently forgetting what <hi>Nothings</hi> we were and are, we ſwell our ſelves into imaginary <hi>Some<g ref="char:EOLhyphen"/>things:</hi> But your Ladiſhips Vertues are a ſuffici<g ref="char:EOLhyphen"/>ent charm againſt this kind of folly, or rather great madneſs; and your acquaintance (which now compared to your Ladiſhip, are but as ſhrubs in compariſon of the talleſt Cedars) will make this good; who ſpeak your deportment, <hi>Madam,</hi>
+               <pb n="4" facs="tcp:30845:3"/>to be as ſweet and friendly, as affable and courte<g ref="char:EOLhyphen"/>ous, as humble and free from all Pride and Vani<g ref="char:EOLhyphen"/>ty, as before your Ladiſhip aſcended the gliſtering <hi>Mount of Honour:</hi> whileſt others pride it with noble deſcent, and deck themſelves with borrow<g ref="char:EOLhyphen"/>ed rayes from honourable Anceſtors, your Ladi<g ref="char:EOLhyphen"/>ſhip being eminently Vertuous, is a moſt cleare Fountain of Honour your ſelf; ſuch as theſe, the ſails of whoſe Greatneſs ſwell with Pride and Vanity, have but the ſhadow of true Nobility, the ſubſtance dwells with your Ladiſhip: you are a burning Lamp, and ſhining light to all your Sex, and the nobleſt <hi>Madams</hi> cannot have a fairer Co<g ref="char:EOLhyphen"/>py to write by than is your Ladiſhip.</p>
+            <p>Truly, <hi>Madam,</hi> I am glad you are great, onely becauſe you are good, and am glad to ſee the luſtre of your goodneſs outſhine the luſtre of your great<g ref="char:EOLhyphen"/>neſs. This may dazel and attract vulgar eys, but the moſt ſweet contemplation of your incomparably good and vertuous Soule captivates, and draws all hearts after your Ladiſhip. Greatneſs is vaniſhing and mortall, to day a Prince, to morrow a Beggar; to day a Conqueror, to morrow a Captive; to day a <hi>Madam,</hi> to morrow none, and ſadly weeping that ever ſhe was one. But Goodneſs which is your Ladiſhips chief aim and ſtudy, is immortal; and will not only dignifie you here, but will eternize you hereafter. Not to flatter, but inform, you are lookt upon, <hi>Madam,</hi> by all, with ſingular de<g ref="char:EOLhyphen"/>light, as one raiſed up by God like Queen <hi>Heſter,</hi> for the good of your languiſhing Country: and
+<pb n="5" facs="tcp:30845:3"/>his <hi>Excellency</hi> is reputed the miracle of men, and <hi>Englands</hi> bleſſed <hi>Peace-Maker.</hi> How many years hath this Land been rent and torn in pieces by ſelf-intereſt intereſt <hi>Perſons</hi> and <hi>Parſons?</hi> How many changes have we had, and ſtill from bad to worſe? and had not our <hi>Joſhua</hi> the <hi>Lord General</hi> ſtood up for us againſt our Rampant Enemy, it is to be feared before this time City and Country had been ru<g ref="char:EOLhyphen"/>ined, and <hi>England</hi> made a Monument of Blood and Aſhes: Such a bleſſing never came out of <hi>Scotland</hi> before, ſuch an opportune deliverance, even when bloody Sectaries had armed themſelvs with weapons and reſolution to deſtroy the Prote<g ref="char:EOLhyphen"/>ſtant party, and make Merchandize of Churches and Univerſities was never heard of, never read of. And had the <hi>Lycaonians</hi> been preſent at your La<g ref="char:EOLhyphen"/>diſhips and the Generals coming amongſt us, and ſeen the many Miracles then done, the almoſt in<g ref="char:EOLhyphen"/>curable diſeaſes and ſad diſtempers which we lay groaning under a long time, preſently cured, and our creepled Commonwealth ſet upon its leggs a<g ref="char:EOLhyphen"/>gain, and leaping for joy; his Sword not woun<g ref="char:EOLhyphen"/>ding, but healing our wounds; his Victory not di<g ref="char:EOLhyphen"/>ed in blood; and our Peace procured, not by war, according to that curſed Motto <hi>[PAX QUAE<g ref="char:EOLhyphen"/>RITUR BELLO]</hi> but by his moſt excellent Wiſdom, and incomparable Prudence. Had the <hi>Lycaonians</hi> ſeen all this, they would have cried out in admiration of your Honours, as once they did concerning <hi>Paul</hi> and <hi>Barnabas, The Gods are come down amongſt us in the likeneſs of men.</hi> We now ſee
+<pb n="6" facs="tcp:30845:4"/>what the Saints are which have Lorded it over us all this while, not Saints but Devils; meer cheats, pretenders only to Religion and Honeſty, having not the leaſt dram of either; not Phyſicians, but Butchers, mangling and murdering their <hi>King</hi> and <hi>Country;</hi> but your Honours like the good Sama<g ref="char:EOLhyphen"/>ritan, have poured oyl abundantly into the wounds which thoſe <hi>Theeves</hi> &amp; <hi>Robbers</hi> made: you are true <hi>Iſraelites</hi> in whom we all hope there is no guile: you are a moſt bleſſed couple may <hi>England</hi> ſay, &amp; the ſhrill ſound of your fame for what you have already done, is heard afar off; and if you make the <hi>Epilogue</hi> like the <hi>Prologue,</hi> and Crown the great good work you have begun, every where, and in all places we will hang up <hi>Trophees,</hi> and erect <hi>Mo<g ref="char:EOLhyphen"/>numents</hi> to your Honours, which ſhall make your Memories bloom and bloſſom to all Poſterity; future Chronicles ſhall blazon your Ladiſhip the beſt of Women, and his Excellency the beſt of Men; all Ages ſhall bleſs you, and dwell upon your praiſes till they ſwell in Volumes bigger than <hi>Foxes Martyrology:</hi> nay we will all write your Hi<g ref="char:EOLhyphen"/>ſtories, and fill whole Libraries with Folioes on<g ref="char:EOLhyphen"/>ly of your Commendations, and there ſhall be no end of your <hi>Eulogiums:</hi> Never were any received by our <hi>Metropolis</hi> with ſuch acclamations of Joy, and ſuch high expreſſions of Love as your Honors; and may you both ſtill continue and grow very aged in all eſtimation and honour amongſt us, that when your moſt precious lives ſhall periodize, our dropping eyes may witneſſe our loſſe, and your
+<pb n="7" facs="tcp:30845:4"/>pious Souls wrapt in a ſable Mantle of our ſighs and groans mount the Battlements of the higheſt Hea<g ref="char:EOLhyphen"/>vens, is the hearty prayer of,</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>Your most Humble and Faithfull Servant, <hi>HEN. MORLEY.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
